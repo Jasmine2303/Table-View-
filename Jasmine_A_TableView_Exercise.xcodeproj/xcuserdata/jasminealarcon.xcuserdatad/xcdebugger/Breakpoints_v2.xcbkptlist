@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4D84B65-34DA-406D-99E3-045A03F24B8A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7C94D13-86D9-43E3-A81D-7D13ED368655"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jasmine_A_TableView_Exercise/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A7C94D13-86D9-43E3-A81D-7D13ED368655 - 4c33fe0e2b3b0626"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jasmine_A_TableView_Exercise.AppDelegate.__allocating_init() -&gt; Jasmine_A_TableView_Exercise.AppDelegate"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "A7C94D13-86D9-43E3-A81D-7D13ED368655 - 25804824a3e785eb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jasmine_A_TableView_Exercise.AppDelegate.init() -&gt; Jasmine_A_TableView_Exercise.AppDelegate"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "A7C94D13-86D9-43E3-A81D-7D13ED368655 - 7b71f982630ef511"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jasmine_A_TableView_Exercise.AppDelegate.__deallocating_deinit"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A7C94D13-86D9-43E3-A81D-7D13ED368655 - 92f77b0e4a6f971f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47FF1B96-4DC8-4D7D-8917-95007F6B6B21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jasmine_A_TableView_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A684B7F-6DD2-4187-8507-211C7A664803"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jasmine_A_TableView_Exercise/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "4A684B7F-6DD2-4187-8507-211C7A664803 - 4c33fe0e2b3b0626"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jasmine_A_TableView_Exercise.AppDelegate.__allocating_init() -&gt; Jasmine_A_TableView_Exercise.AppDelegate"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "4A684B7F-6DD2-4187-8507-211C7A664803 - 25804824a3e785eb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jasmine_A_TableView_Exercise.AppDelegate.init() -&gt; Jasmine_A_TableView_Exercise.AppDelegate"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "4A684B7F-6DD2-4187-8507-211C7A664803 - 7b71f982630ef511"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jasmine_A_TableView_Exercise.AppDelegate.__deallocating_deinit"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "4A684B7F-6DD2-4187-8507-211C7A664803 - 92f77b0e4a6f971f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Jasmine_A_TableView_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminealarcon/Desktop/Jasmine_A_TableView_Exercise/Jasmine_A_TableView_Exercise/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07030078-67E7-4251-9C79-0844892E2380"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jasmine_A_TableView_Exercise/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
